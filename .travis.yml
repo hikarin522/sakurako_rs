@@ -1,0 +1,11 @@
++language: rust
+ +rust:
+ +  - nightly
+ +  
+ +addons:
+ +  apt:
+ +    packages:
+ +    - libcurl4-openssl-dev
+ +    - libelf-dev
+ +    - libdw-dev
+ 
