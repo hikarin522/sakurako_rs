@@ -1,0 +1,11 @@
+[package]
+authors = ["＼ﾋｯｶﾘｰﾝ／ <s.nlf.fh@gmail.com>"]
+name = "sakurako_rs"
+version = "0.1.0"
+
+[dependencies]
+docomo-api = "0.1.0"
+serde = "0.8.2"
+serde_json = "0.8.1"
+serde_macros = "0.8.2"
+slack = "0.15.0"
